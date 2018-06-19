@@ -1,0 +1,31 @@
+Altium Designer Pick and Place Locations
+C:\Users\admin\Desktop\24L01测试\Project Outputs for PCB_Project1\Pick Place for PCB1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       19/06/18
+Time:       17:08
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"Y1","16MHZ 9PF 10PPM","TopLayer","SMD-3225_4P","11.0890","8.7250","360","贴片晶振"
+"U1","NRF24L01P-R","TopLayer","QFN-20_4x4x05P","4.7625","7.9502","360","无线"
+"R2","1MΩ (1004) ±1%","TopLayer","0402_R","8.1280","8.7630","90","贴片电阻"
+"R1","22KΩ (2202) ±1%","TopLayer","0402_R","1.2700","8.9560","180","贴片电阻"
+"P1","Header 4X2","TopLayer","HDR2X4","7.4041","2.6162","180","Header, 4-Pin, Dual row"
+"L3","2.7nH 0.3nH","TopLayer","0402_L","5.8860","12.5730","360","贴片电感"
+"L2","8.2nH 5%","TopLayer","0402_L","4.8260","11.1760","180","贴片电感"
+"L1","3.9nH 3%","TopLayer","0402_L","3.6830","12.5730","180","贴片电感"
+"E1","Antenna","TopLayer","MIFA天线","3.1275","16.5100","360","Generic Antenna"
+"C9","10pF (100) 5% 50V","TopLayer","0402_C","11.0490","11.3030","0","贴片电容"
+"C8","10pF (100) 5% 50V","TopLayer","0402_C","11.0490","6.0960","180","贴片电容"
+"C7","4.7pF (4R7) 0.25pF 50V","TopLayer","0402_C","4.6275","14.4780","270","贴片电容"
+"C6","2.2nF (222) 10% 50V","TopLayer","0402_C","6.0960","14.4780","270","贴片电容"
+"C5","10nF (103) 10% 50V","TopLayer","0402_C","1.2700","6.0060","360","贴片电容"
+"C4","1nF (102) 10% 50V","TopLayer","0402_C","1.2700","4.5720","360","贴片电容"
+"C3","1pF (1R0) 0.25pF 50V","TopLayer","0402_C","1.2260","14.8590","360","贴片电容"
+"C2","1.5pF (1R5) 0.25pF 50V","TopLayer","0402_C","3.1115","14.4340","90","贴片电容"
+"C1","33nF (333) 20% 50V","TopLayer","0402_C","1.2700","7.4560","180","贴片电容"
